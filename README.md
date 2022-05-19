@@ -1,2 +1,2 @@
 # Db1Start
- Meus projetos de aprendizagem de python do zero
+ Meus projetos de aprendizagem de python do zero...
